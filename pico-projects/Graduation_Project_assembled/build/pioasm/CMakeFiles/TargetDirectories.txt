@@ -1,0 +1,7 @@
+/home/uzygncr/pico/pico-projects/Graduation_Project_assembled/build/pioasm/CMakeFiles/pioasm.dir
+/home/uzygncr/pico/pico-projects/Graduation_Project_assembled/build/pioasm/CMakeFiles/edit_cache.dir
+/home/uzygncr/pico/pico-projects/Graduation_Project_assembled/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/uzygncr/pico/pico-projects/Graduation_Project_assembled/build/pioasm/CMakeFiles/list_install_components.dir
+/home/uzygncr/pico/pico-projects/Graduation_Project_assembled/build/pioasm/CMakeFiles/install.dir
+/home/uzygncr/pico/pico-projects/Graduation_Project_assembled/build/pioasm/CMakeFiles/install/local.dir
+/home/uzygncr/pico/pico-projects/Graduation_Project_assembled/build/pioasm/CMakeFiles/install/strip.dir
